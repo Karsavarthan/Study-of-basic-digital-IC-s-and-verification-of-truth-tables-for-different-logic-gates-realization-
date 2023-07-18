@@ -1,5 +1,8 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+## NAME: KARSAVARTHAN.R.R 
+
+##REGISTER NUMBER:23003628
+#AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
@@ -59,14 +62,20 @@ If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 Program:
 /*
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
-Output:
-RTL
+![image](https://github.com/Karsavarthan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841970/a92bb52e-06dd-4d43-8ac3-7d94f0e4a996)
 
-Result:
+*/
+# RTL:
+![image](https://github.com/Karsavarthan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841970/a4e27b59-d9f4-4c33-ac4d-dccc59d9f327)
+
+*/
+# Logic symbol & Truthtable:
+![image](https://github.com/Karsavarthan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841970/78f4761b-c0fc-41c8-9143-b2839f45b789)
+
+*/
+# Output waveform:
+![image](https://github.com/Karsavarthan/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841970/4cfc1e13-aac8-43ad-9a91-9b6a4e561a99)
+
+
+# Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
